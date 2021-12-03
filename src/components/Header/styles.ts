@@ -20,6 +20,7 @@ export const Container = styled.div`
           border: 0;
           background: #39b100;
           color: #fff;
+          box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 35%);
 
           display: flex;
           flex-direction: row;
